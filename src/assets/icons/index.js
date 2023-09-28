@@ -10,7 +10,7 @@ import shieldTick from "./shield-tick.svg";
 import star from "./star.svg";
 import truckFast from "./truck-fast.svg";
 import twitter from "./twitter.svg";
-import close from "./close.png";
+import close from "./close.svg";
 export {
   arrowRight,
   cheveronRight,
