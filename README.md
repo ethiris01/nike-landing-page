@@ -1,6 +1,6 @@
 
+![github_img](https://github.com/ethiris01/nike-landing-page/assets/130985778/7dd5ae24-431f-4b5e-982b-a6aafe16ef46)
 
-[github_img](https://github.com/ethiris01/nike-landing-page/assets/130985778/c06c6b1d-f8cb-43b8-993c-296920e8931c)
 # React + Vite!
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
